@@ -8,6 +8,7 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
+
 import { getDate } from "../../utils/date";
 
 import "./Chart.css";
@@ -16,8 +17,6 @@ interface ChartProps {
   data: any;
   yAxisTickFormatter?: (tick: number) => string;
 }
-
-//  TODO usememo
 
 export default function Chart(props: ChartProps) {
   const { data, yAxisTickFormatter } = props;

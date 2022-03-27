@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ttonya/luna/static/css/main.5c13d211.css",
+    "main.js": "/ttonya/luna/static/js/main.2fdb25b5.js",
+    "static/js/787.f227e63a.chunk.js": "/ttonya/luna/static/js/787.f227e63a.chunk.js",
+    "index.html": "/ttonya/luna/index.html",
+    "main.5c13d211.css.map": "/ttonya/luna/static/css/main.5c13d211.css.map",
+    "main.2fdb25b5.js.map": "/ttonya/luna/static/js/main.2fdb25b5.js.map",
+    "787.f227e63a.chunk.js.map": "/ttonya/luna/static/js/787.f227e63a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c13d211.css",
+    "static/js/main.2fdb25b5.js"
+  ]
+}

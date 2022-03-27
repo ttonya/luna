@@ -1,0 +1,28 @@
+.Header {
+  width: calc(100% - 40px);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.Header__title {
+  font-size: 32px;
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+}
+
+.Header__label {
+  color: var(--secondary-color);
+}
+
+.Header__bookmarks {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: var(--secondary-color);
+  cursor: pointer;
+}
+
+.Header__report {
+  color: var(--accent-color);
+}
